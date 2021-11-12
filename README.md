@@ -1,2 +1,2 @@
 # ddos.java
-Attack ddos
+java ddos.java
